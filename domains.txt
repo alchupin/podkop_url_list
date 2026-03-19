@@ -2,8 +2,12 @@ claudecertificationguide.com
 www.claudecertificationguide.com
 
 sofascore.com
+ws.sofascore.com
+img.sofascore.com
 www.sofascore.com
+api.sofascore1.com
 api.sofascore.com
+sofavpn.com
 api.sofascore.app
 corporate.sofascore.com
 link.sofascore.com
