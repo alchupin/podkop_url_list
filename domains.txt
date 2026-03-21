@@ -11,3 +11,7 @@ sofavpn.com
 api.sofascore.app
 corporate.sofascore.com
 link.sofascore.com
+
+www.vdsina.com
+vdsina.com
+
