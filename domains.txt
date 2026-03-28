@@ -20,3 +20,7 @@ link.sofascore.com
 www.vdsina.com
 vdsina.com
 
+
+accounts.skilljar.com
+www.accounts.skilljar.com
+
