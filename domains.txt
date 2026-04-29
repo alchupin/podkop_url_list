@@ -6,6 +6,12 @@ www.claude.com
 claude.ai
 www.claude.ai
 
+https://chatgpt.com
+chatgpt.com
+https://www.chatgpt.com
+www.chatgpt.com
+
+
 sofascore.com
 ws.sofascore.com
 img.sofascore.com
@@ -29,3 +35,5 @@ skilljar.com
 jacred.xyz
 jac.red
 jacred.pro
+
+
